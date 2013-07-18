@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-title: Testing Readability with a Bunch of Text
-description: A ton of text to test readability.
+title: We just changed this mayn
+description: New life for mey.
 category: articles
 tags: 
   - sample post
