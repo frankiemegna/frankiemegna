@@ -1,13 +1,13 @@
-title:            So Simple Theme
-description:      A simple and clean responsive Jekyll theme for words and photos.
+title:            Frank Megna
+description:      Ballin.
 logo:             site-logo.png
 disqus_shortname: sosimpletheme
 #Comment out url when working locally to resolve base urls correctly
-url:              http://mmistakes.github.io/so-simple-theme
+url:              http://frankiemegna.github.io/
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Frankie Megna
   avatar:         michael-rose-photo.jpg
   email:          michael@mademistakes.com
   # Social networking links used in footer. Update and remove as you like.
