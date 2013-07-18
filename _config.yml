@@ -3,7 +3,7 @@ description:      Ballin.
 logo:             site-logo.png
 disqus_shortname: sosimpletheme
 #Comment out url when working locally to resolve base urls correctly
-url:              http://frankiemegna.github.io/
+url:              http://frankiemegna.github.io/frankiemegna/
 
 # Owner/author information
 owner:
