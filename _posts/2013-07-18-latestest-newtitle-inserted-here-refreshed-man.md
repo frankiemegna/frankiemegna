@@ -18,6 +18,8 @@ comments: true
 
 Testing one two three
 
+latest additions
+
 layout: post
 title: A Post with Images
 description: Examples and code for displaying images in posts.
